@@ -1,0 +1,7 @@
+Month,Sales,Campaign,Stock_Status
+July,15000,No,In Stock
+August,24000,Yes,In Stock
+September,17000,No,Low Stock
+October,13000,No,Out of Stock
+November,26000,Yes,In Stock
+December,18000,No,In Stock
