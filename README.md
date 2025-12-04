@@ -1,5 +1,5 @@
 content = """
-# Sales Trend Analysis Project
+# 📊 Sales Trend Analysis Project
 
 this project analyzes monthly sales data to identify patterns, campaign effects, and stock-related issues.
 It includes data preparation, visualization and an automatically generated PDF report.
