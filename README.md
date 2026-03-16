@@ -36,7 +36,13 @@ How do marketing campaigns and inventory levels affect monthly sales performance
 ```
 project_sales_trend/
 ├── queries/
-│   └── sepetix_city_category_analysis.sql
+│   ├── sepetix_city_category_analysis.sql
+│   ├── sepetix_customer_segment_analysis.sql
+│   ├── sepetix_having_filter.sql
+│   ├── sepetix_istanbul_high_spend.sql
+│   ├── sepetix_monthly_orders.sql
+│   ├── sepetix_segment_spend_classification.sql
+│   └── sepetix_spend_segmentation.sql
 ├── data/
 │   └── sales_data.csv
 ├── visuals/
