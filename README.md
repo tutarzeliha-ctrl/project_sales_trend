@@ -69,10 +69,9 @@ project_sales_trend/
 
 **Zeliha Tutar**
 Data Analyst | Decision Intelligence
-[LinkedIn](#) | [GitHub](#)
+[LinkedIn](https://www.linkedin.com/in/zeliha-tutar-35a3013aa/?locale=tr)| [GitHub](https://github.com/tutarzeliha-ctrl/project_sales_trend)
 
 *Focused on translating data into actionable business decisions*
-
 ---
 
 **Note:** This project applies SQL and Python-based analysis to real e-commerce data, translating business questions into measurable insights.
