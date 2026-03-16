@@ -75,4 +75,4 @@ Data Analyst | Decision Intelligence
 
 ---
 
-**Note:** This project was developed as part of my data analytics learning journey, focusing on real-world business problem-solving.
+**Note:** This project applies SQL and Python-based analysis to real e-commerce data, translating business questions into measurable insights.
