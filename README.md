@@ -24,6 +24,17 @@ How do marketing campaigns and inventory levels affect monthly sales performance
 - **BigQuery Analysis:** Istanbul's home appliances segment generates an average spend of 4,480 — nearly double the category average
 - **Category Insight:** Electronics combines high average spend with high order volume, making it the strongest growth opportunity
 
+## Business Recommendation
+
+- Prioritize Electronics for Q4 budget: high AOV + 
+  high volume = strongest growth lever
+- Launch premium upsell campaign targeting Istanbul 
+  Home Appliances segment (2x category average spend)
+- Investigate October stock shortage — recurring risk 
+  if not addressed before peak season
+- Align campaign calendar with August & November 
+  seasonal peaks to maximize ROI
+
 ## Tools & Technologies
 
 - **Python** - Data processing and analysis
